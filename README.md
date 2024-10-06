@@ -6,11 +6,17 @@ check out these!
 
 [romhacking.com](https://www.youtube.com/@MART1channel)
 
-![image](https://github.com/user-attachments/assets/6bac26e5-e1cc-4b94-9e87-5ba057b795bf)
+https://raw.githubusercontent.com/MART1-hub/MART1-hub.github.io/refs/heads/main/MART1%20hat.png
 
 
 check out These Videos!
 
+[![an special video of hallowen][1]][2]
+
+[1]:
+https://raw.githubusercontent.com/MART1-hub/MART1-hub.github.io/refs/heads/main/Video1.png
+
+[2]:
 https://youtu.be/nmFVUcAZ0BY?si=YWf-JZfKMTidKcEI
 
 or You can Watch in The channel
