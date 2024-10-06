@@ -2,12 +2,9 @@
 
 check out these!
 
-[youtube](https://romhacking.com/user/MART1)
+[tomhacking.com](https://romhacking.com/user/MART1)
 
-[romhacking.com](https://www.youtube.com/@MART1channel)
-
-https://raw.githubusercontent.com/MART1-hub/MART1-hub.github.io/refs/heads/main/MART1%20hat.png
-
+[youtube](https://www.youtube.com/@MART1channel)
 
 check out These Videos!
 
@@ -21,4 +18,10 @@ https://youtu.be/nmFVUcAZ0BY?si=YWf-JZfKMTidKcEI
 
 or You can Watch in The channel
 
-[Channel](https://romhacking.com/user/MART1)
+[![Channel][3]][4]
+
+[3]:
+https://raw.githubusercontent.com/MART1-hub/MART1-hub.github.io/refs/heads/main/MART1%20hat.png
+
+[4]:
+https://www.youtube.com/@MART1channel
