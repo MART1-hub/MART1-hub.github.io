@@ -6,6 +6,9 @@ check out these!
 
 [romhacking.com](https://www.youtube.com/@MART1channel)
 
+![image](https://github.com/user-attachments/assets/6bac26e5-e1cc-4b94-9e87-5ba057b795bf)
+
+
 check out These Videos!
 
 https://youtu.be/nmFVUcAZ0BY?si=YWf-JZfKMTidKcEI
